@@ -1,4 +1,4 @@
-# AskPDF - Interactive PDF AI Chatbot
+# PDFGenie - Interactive PDF AI Chatbot
 
 Welcome to AskPDF, a cutting edge SaaS product transforming user interactions with PDF documents. Our advanced AI-driven chatbot facilitates seamless communication, enabling users to inquire and receive comprehensive answers from their PDFs.
 
